@@ -2,6 +2,7 @@
 
 > Contains webpack, babble, css-loader, file-loader.  
 
+> Recommend using Live Server https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer with VS Code
 
 > To install run $npm install
 
